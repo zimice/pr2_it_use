@@ -14,6 +14,6 @@ Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkaj�
 ## Seznam odborné literatury:
 
 1. <https://www.zakonyprolidi.cz/cs/2009-40>  aktuální znění
-2. Jan Kolouch a kolektiv, "CYBERSECURITY", <https://knihy.nic.cz/>
+2. Jan Kolouch a kolektiv, "CYBERSECURITY", <https://knihy.nic.cz/files/edice/cybersecurity.pdf>
 3. <https://www.nukib.cz/cs/>, vzdělávací materiály
 4. <https://www.zakonyprolidi.cz/cs/2014-181> aktuální znění
