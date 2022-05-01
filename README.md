@@ -17,3 +17,11 @@ Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkaj�
 2. Jan Kolouch a kolektiv, "CYBERSECURITY", <https://knihy.nic.cz/files/edice/cybersecurity.pdf>
 3. <https://www.nukib.cz/cs/>, vzdělávací materiály
 4. <https://www.zakonyprolidi.cz/cs/2014-181> aktuální znění
+
+
+### Cybersecurity stránky
+
+124 3.3.4 Trestní zákoník
+129 Zákon o KB
+411 Fyzická bezpečnost
+425 Bezpečnost sítí a ochrana služeb

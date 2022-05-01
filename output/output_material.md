@@ -8,6 +8,8 @@
 
 ### Trestní zákoník
 
+#### 230
+
 podle paragrafu 230 odstavce 1 trestního zákoníku je překonání bezpečnostního opatření k neoprávněnému přistupu k počítačovému systému a jedná se o trestný čin.
 Tzn. že i když mám heslo na papírku vedle počítače, nemohu ho použít, protože bych porušil zákon.
 
@@ -15,9 +17,23 @@ Podle odstavce 2 je zakázáno jakkoli modifikovat či smazat data z počítačo
 
 Podle odstavce tři nesmí uživatel způsobit jinému škodu nebo omezit funkčnost počítačového systému.
 
+#### 231
 
 Podle paragrafu 231 máme trestní zákoník k přechovávání a opatření přistupového zařízení a hesla k počítačovému systému a jiných takových dat
 
+Pokud budu chtít spáchat trestný čin porušení tajemstí, či neoprávěný přístup k nosiči informací či uvedu do oběhu či jinak zneužiju.
+
+Zařízení nebo jeho součást, postup, nástroj určený pro neoprávněné přístupy do sítě elektronických komunikací,či počítačové síťi
+
+Počítačové heslo, kód, data, postup nebo prostředek s jehož pomocí lze získat přistup k systému 
+
+Je trestán odnětím svobody až na dvě léta.
+
+Daný trestný čin dále eskaluje, jedná-li se v rámci organizované skupiny nebo se jedná o značný prospěch pro někoho.
+
+#### 232
+
+Podle paragrafu 232
 
 #### Inspirace ze zdrojů
 
