@@ -21,7 +21,7 @@ Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkaj�
 
 ### Cybersecurity stránky
 
-124 3.3.4 Trestní zákoník
-129 Zákon o KB
-411 Fyzická bezpečnost
-425 Bezpečnost sítí a ochrana služeb
+124. 3.3.4 Trestní zákoník  
+129. Zákon o KB  
+411. Fyzická bezpečnost  
+425. Bezpečnost sítí a ochrana služeb  
