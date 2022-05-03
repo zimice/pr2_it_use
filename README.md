@@ -25,3 +25,8 @@ Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkaj�
 129. Zákon o KB  
 411. Fyzická bezpečnost  
 425. Bezpečnost sítí a ochrana služeb  
+
+### Přednášky s informacemi:
+
+- https://www.youtube.com/watch?v=Lw155n-ommU
+

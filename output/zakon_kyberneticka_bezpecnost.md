@@ -59,4 +59,20 @@ individualita jednotlivých partikulárních bezpečnostních řešení umožní
 příslušných zdrojů. 
 
 
+### Implementace
+
+Institut varování
+
+Úřad vydá varování, dozví-li se zejména z vlastní činnosti nebo z podnětu provozovatele národního CERT anebo od orgánů
+
+Varování Úřad zveřejn í na svých internetových stránkách a oznámí je orgánům a osobám uvedeným v paragrafu 3, jejichž kontakní údaje jsou vedeny v evidenci podle paragrafu 16 odstavci 4.
+
+Prostřednictvím varování NÚKIB upozorňuje na existenci hrozby v oblasti KB, na kterou je nutné bezprostředně reagovat.
+
+Subjekty, které spadají pod zákon ZKB, jsou povinny se touto hrozbou dále zabývat a zohlednit ji v analýze rizik
+
+Várování neznamená zákaz použití, ale nutnost zvážení případného bezpečnostního rizika
+
+Orgánům a osobám, kterým ZKB neukládá povinnost zavést a provádět bezpečností opatření, stejně tak jako široké veřejnosti, nezakládá varování NÚKIB povinnosti.
+
 
