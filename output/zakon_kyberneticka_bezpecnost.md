@@ -4,14 +4,17 @@
 
 Cybersecurity kniha strana 129
 
+## Pojmy
+
+KII - Kritická Informační Infrastruktura
+
+ISMS - Rozsah systému řízení bezpečnosti informací (Information Security Management System)
+
+
+
 ## O čem je
 
-Zákon o kybernetické bezpečnosti nezakládá civilní ani trestní odpovědnost pachatelů
-kybernetických útoků, ale vytváří systém bezpečnostních opatření, která mají výskytu
-kybernetických bezpečnostních incidentů předcházet, resp. která mají zajistit, že
-případný kybernetický bezpečností incident neohrozí celkové fungování informačních
-a komunikačních systémů nebo fungování kriticky důležitých společenských informačních
-funkcionalit.
+Zákon o kybernetické bezpečnosti nezakládá civilní ani trestní odpovědnost pachatelů kybernetických útoků, ale vytváří systém bezpečnostních opatření, která mají výskytu kybernetických bezpečnostních incidentů předcházet, resp. která mají zajistit, že případný kybernetický bezpečností incident neohrozí celkové fungování informačních a komunikačních systémů nebo fungování kriticky důležitých společenských informačních funkcionalit.
 
 Ad. 2. Princip ochrany informačního sebeurčení člověka
 Bezpečnost nelze vnímat jako samostatně existující legitimní hodnotu. Legitimní jsou totiž jen
@@ -61,7 +64,7 @@ příslušných zdrojů.
 
 ### Implementace
 
-Institut varování
+Institut varování podle paragrafu 12 ZKB 
 
 Úřad vydá varování, dozví-li se zejména z vlastní činnosti nebo z podnětu provozovatele národního CERT anebo od orgánů
 
@@ -75,4 +78,25 @@ Várování neznamená zákaz použití, ale nutnost zvážení případného be
 
 Orgánům a osobám, kterým ZKB neukládá povinnost zavést a provádět bezpečností opatření, stejně tak jako široké veřejnosti, nezakládá varování NÚKIB povinnosti.
 
+
+Kontrola plneni zakona a kyberneticke bezpecnosti
+
+100-150 kontrolnich bodu
+
+Kontrola napr. bezpecnostnich roli, nastaveni isms, organizace, dokumentace atd.
+Zvladani incidentu a hlaseni incidentu ze zakona
+
+
+
+#### Častá zjištění a problémy
+
+Nedostatečná podpora vedení organizace
+
+Nizké bezpečnostní povědomé o KB napříč organizací
+
+Nevhodné organizační zařazení
+
+Nedostatečné personální obsazení
+
+Nákup technologie z důvodu požadavku ve vyhlášce
 

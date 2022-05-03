@@ -30,3 +30,13 @@ Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkaj�
 
 - https://www.youtube.com/watch?v=Lw155n-ommU
 
+### Prezentace pouzity
+
+https://www.cybersecurity.cz/data/NBU_2015-KII_VIS.pdf
+
+https://nukib.cz/download/publikace/vzdelavani/Admin%204.0%20brozura.pdf
+
+https://nukib.cz/download/publikace/vzdelavani/Zakladni_bezpecnostni_opatreni_pro_vrcholove_vedeni_brozura_cb.pdf
+
+https://nukib.cz/download/publikace/doporuceni/Doporuceni_bezpecny_pohyb_v_kyber_svete_brozura_cb.pdf
+
