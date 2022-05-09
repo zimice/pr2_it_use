@@ -7,8 +7,8 @@ Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkaj�
 ## Úkoly:
 
 - [X] Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkají použití  výpočetní techniky a pohybu na Internetu.[Trestní zákoník vypočetní techniky](./output/trestni_zakonik_vypocetni_technika.md)
-- [ ] Seznamte se Zákonem o kybernetické bezpečnosti a jeho dopadem na běžného uživatele.[Zákon o KB a dopad na průměrného uživatele](./output/zakon_kyberneticka_bezpecnost.md)
-- [ ] Seznamte se s tím,  jaké povinnosti má běžný uživatel zařízení (počítač, mobil) s internetovým připojením.
+- [X] Seznamte se Zákonem o kybernetické bezpečnosti a jeho dopadem na běžného uživatele.[Zákon o KB a dopad na průměrného uživatele](./output/zakon_kyberneticka_bezpecnost.md)
+- [ ] Seznamte se s tím,  jaké povinnosti má běžný uživatel zařízení (počítač, mobil) s internetovým připojením.[Práva a povinnosti s internetovým připojením](./output/internet_pripojeni_pravni_odpovednost.md)
 - [ ] Shrňte právní odpovědnost uživatele do základního velmi jednoduchého a přehledného materiálu, který bude možno použít pro vzdělávání laiků v této oblasti.
 
 ## Seznam odborné literatury:

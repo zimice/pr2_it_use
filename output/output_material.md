@@ -33,8 +33,7 @@ Daný trestný čin dále eskaluje, jedná-li se v rámci organizované skupiny 
 
 #### 232
 
-Podle paragrafu 232
-
+Je poškození, zničení nebo učiní neupotřebytelnými a tím způsobí na cizím majetku značnou škou tak bude potrestán dále podle aktuálního znění trestního zákoníku pargrafu 232
 #### Inspirace ze zdrojů
 
 https://www.epravo.cz/top/clanky/regulace-kybernetickeho-prostoru-a-kyberneticka-bezpecnost-111871.html
