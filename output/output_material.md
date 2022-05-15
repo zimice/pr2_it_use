@@ -6,6 +6,8 @@
 
 ## Vymezení kyberprostoru
 
+
+
 ### Trestní zákoník
 
 #### 230
@@ -34,6 +36,12 @@ Daný trestný čin dále eskaluje, jedná-li se v rámci organizované skupiny 
 #### 232
 
 Je poškození, zničení nebo učiní neupotřebytelnými a tím způsobí na cizím majetku značnou škou tak bude potrestán dále podle aktuálního znění trestního zákoníku pargrafu 232
+
+## Jak zákon o kybernetické bezpečnosti ovlivňuje běžného uživatele výpočetní techniky
+
+
+
+
 #### Inspirace ze zdrojů
 
 https://www.epravo.cz/top/clanky/regulace-kybernetickeho-prostoru-a-kyberneticka-bezpecnost-111871.html
