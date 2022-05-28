@@ -46,7 +46,7 @@ Institut varování podle paragrafu 12 ZKB
 
 Úřad vydá varování, dozví-li se zejména z vlastní činnosti nebo z podnětu provozovatele národního CERT anebo od orgánů
 
-Varování Úřad zveřejn i na svých internetových stránkách a oznámí je orgánům a osobám uvedeným v paragrafu 3, jejichž kontakní údaje jsou vedeny v evidenci podle paragrafu 16 odstavci 4.
+Varování Úřad zveřejní i na svých internetových stránkách a oznámí je orgánům a osobám uvedeným v paragrafu 3, jejichž kontakní údaje jsou vedeny v evidenci podle paragrafu 16 odstavci 4.
 
 Prostřednictvím varování NÚKIB upozorňuje na existenci hrozby v oblasti KB, na kterou je nutné bezprostředně reagovat.
 
