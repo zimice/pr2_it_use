@@ -11,6 +11,13 @@ Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkaj�
 - [X] Seznamte se s tím,  jaké povinnosti má běžný uživatel zařízení (počítač, mobil) s internetovým připojením.[Práva a povinnosti s internetovým připojením](./output/internet_pripojeni_pravni_odpovednost.md)
 - [X] Shrňte právní odpovědnost uživatele do základního velmi jednoduchého a přehledného materiálu, který bude možno použít pro vzdělávání laiků v této oblasti.
 
+## Obsah projektu:
+
+- [Prezentace přednesena 2.6.2022](./Kochanek_projekt_II_it_use_liability.pptx)
+- [Písemná práce odevzdána do 20.6.2022](./projekt_II_It_use_liability_Kochanek.docx)
+
+
+
 ## Seznam odborné literatury:
 
 1. <https://www.zakonyprolidi.cz/cs/2009-40>  aktuální znění
@@ -18,19 +25,7 @@ Seznamte se s příslušnými paragrafy Trestního zákoníku, které se týkaj�
 3. <https://www.nukib.cz/cs/>, vzdělávací materiály
 4. <https://www.zakonyprolidi.cz/cs/2014-181> aktuální znění
 
-
-### Cybersecurity stránky
-
-124. 3.3.4 Trestní zákoník  
-129. Zákon o KB  
-411. Fyzická bezpečnost  
-425. Bezpečnost sítí a ochrana služeb  
-
-### Přednášky s informacemi:
-
-- https://www.youtube.com/watch?v=Lw155n-ommU
-
-### Prezentace pouzity
+### Použité prezentace:
 
 https://www.cybersecurity.cz/data/NBU_2015-KII_VIS.pdf
 
